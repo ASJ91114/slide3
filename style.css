@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background: linear-gradient(135deg, #ff00e0, #ffeb3b, #14ffe9);
+}
+
+table,
+th,
+td {
+    border: 2px solid green;
+    font-size: 30px;
+    text-align: center;
+}
+
+th {
+    color: darkblue ;
+    font-weight: bolder;
+}
+
+td{
+    color: darkgreen;
+    font-weight: bold;
+}
+.topic{
+    font-size: 50px;
+}
